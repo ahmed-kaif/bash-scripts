@@ -4,7 +4,7 @@
 # |	Install Script For Rust Based Alacritty Terminal Emulator 
 # |	on Debian Based Distro									  
 # |	created By: Kaif Ahmed Khan								  
-# |	github: https://github.com/ahmed-kaif					   
+# |	github: https://github.com/ahmed-kaif  
 #  -----------------------------------------------------------
 
 # clone alacritty repo
